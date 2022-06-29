@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+    <meta charset = "UTF-8">
+    <title> Pizzaria do Guaíra </title>
+</head>
+<body>
+    <h1> Sobre a pizzaria do Guaíra </h1>
+    <p> Localizada no coração da cidade a <strong> Pizzaria do Guaíra</strong> traz para
+    o mercado o que há de melhor em sabores de pizzas. Fundada em 2019, a pizzaria já é
+    destaque na cidade e conquista novos clientes a cada dia. </p>
+    <p> <em> Nossa missão é: <strong> “Proporcionar sabor e lembranças para a vida de 
+    nossos clientes” </strong> </em> </p> 
+    <p> Oferecemos o que há de melhor na seleção de ingredientes e na formação de 
+     nossos profissionais para que eles estejam sempre antenados ao que há de novidade.
+     O atendimento possui padrão de excelência e agilidade, garantindo qualidade e 
+     satisfação dos nossos clientes. </p> 
+
+</body>
+</html>
