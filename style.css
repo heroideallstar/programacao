@@ -1,9 +1,15 @@
-p{
-    text - align: center;
-}
 body{
-        background: #cccccc;
+	background-color: pink;
 }
-em strong{
-               color: red;
+h1{
+	text-align: center;
+	color: green;
+	font-size: 70px;
+}
+b{
+	color: purple;
+	font-size: 40px;
+}
+p{
+	text-align: justify;
 }
