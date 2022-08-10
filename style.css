@@ -5,11 +5,15 @@ h1{
 	text-align: center;
 	color: #bc162a;
 	font-size: 50px;
+	border: 10px double #bc162a;
+
 }
 h2{
 	text-align: center;
 	color: #302325;
 	font-size: 30px
+	border: 10px double #302325;
+
 }
 b{
 	color: #ee7f27;
@@ -17,4 +21,11 @@ b{
 }
 p{
 	text-align: justify;
+}
+
+#image01{
+	width: 25%;
+	border: 10px double #bc162a;
+	margin: 40px;
+	padding: 10px;
 }
