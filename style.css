@@ -12,8 +12,6 @@ h2{
 	text-align: center;
 	color: #302325;
 	font-size: 30px
-	border: 10px double #302325;
-
 }
 b{
 	color: #ee7f27;
@@ -28,4 +26,14 @@ p{
 	border: 10px double #bc162a;
 	margin: 40px;
 	padding: 10px;
+}
+.chocquente{
+	background-color: #bc162a;
+	font-size: 20px;
+	border: 10px double #d9d593;
+}
+
+.choc{
+	background-color: #d9d593;
+	border: 10px double #bc162a;
 }
