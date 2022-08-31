@@ -1,14 +1,14 @@
 body{
 	background-color: #d9d593;
 }
-h1{
+h2{
 	text-align: center;
 	color: #bc162a;
 	font-size: 50px;
 	border: 10px double #bc162a;
 
 }
-h2{
+h3{
 	text-align: center;
 	color: #302325;
 	font-size: 30px
@@ -27,13 +27,53 @@ p{
 	margin: 40px;
 	padding: 10px;
 }
+
 .chocquente{
+	background-color: #bc162a;
+	border: 10px double #d9d593;
+}
+.exemplo{
+	padding: 2%;
+}
+ul{
+	display: inline-block;
+	vertical-align:top;
+	padding: 2%;
+}
+
+/*.choc{
+	background-color: #d9d593;
+	border: 10px double #bc162a;
+	display: inline-block;
+
+}
+.chocquen{
 	background-color: #bc162a;
 	font-size: 20px;
 	border: 10px double #d9d593;
-}
+	display: inline-block;
+}*/
 
-.choc{
-	background-color: #d9d593;
-	border: 10px double #bc162a;
+header{
+	background-color: #bc162a;
+}
+h1{
+	text-align: center;
+	color: black;
+	font-size: 50px;
+}
+.cabecalho{
+	border: 20px double #d9d593;
+}
+.ii{
+	font-size: 50px;
+	display: inline-block;
+	border: 10px solid #ffffff;
+	padding: 2%
+	color:black;
+	text-align: left;
+}
+.exemplo2{
+	padding: 2%;
+	margin-left: 43%;
 }
